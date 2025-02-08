@@ -10,6 +10,10 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   defaultTheme = "auto"
 
+[params.assets]
+disableFingerprinting = true
+
+
 [menu]
   [[menu.main]]
     identifier = "home"
