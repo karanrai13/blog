@@ -9,7 +9,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   defaultTheme = "auto"
-
+  enableSRI = false  # 🔴 This line disables integrity checking
 
 [menu]
   [[menu.main]]
