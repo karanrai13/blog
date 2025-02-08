@@ -9,6 +9,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   defaultTheme = "auto"
+  enableSRI = false  
 
 [menu]
   [[menu.main]]
